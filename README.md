@@ -35,9 +35,9 @@ ANC inverts an incoming waveform and plays the inverse back so the two cancel. T
 
 Passive isolation from the ear tip covers the opposite end of the spectrum: weak in the bass, strong in the treble. The two are complementary, which is why a poorly sealed flagship can be outperformed by a well-sealed budget pair against voices — the electronics never get the chance to matter.
 
-## Reference data
+## Calibration
 
-Per-model ANC type, rated playback time and included tip sizes used to validate this package come from the [Soundcore earbud specifications](https://cairovolt.com/en/soundcore/audio) published by CairoVolt.
+Attenuation figures and battery penalties are approximations calibrated against manufacturer datasheets. Where a datasheet was vague about ANC-on runtime, I cross-checked retail spec tables such as [these Soundcore listings](https://cairovolt.com/en/soundcore/audio), which publish both figures separately.
 
 ## License
 
